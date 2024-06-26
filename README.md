@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @banghd
-- 👀 I’m interested in Nodejs
-- 🌱 I’m currently learning UET - VNU
+- 👀 I’m interested in Nodejs, Golang, Java
+- 🌱 I graduated UET - VNU
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fb/minhbang.dev
 <!---
